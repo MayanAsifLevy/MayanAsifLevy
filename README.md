@@ -4,7 +4,7 @@
 ## Hi, I'm Mayan 
 
 ## :book: About me
-- :computer: I’m a Full Stack developer with a history as data engineer
+- :computer: I’m a Full Stack Engineer with a history as data engineer
 - :mortar_board: I have B.Sc.in Industrial and Management Engineering specialized in Information Systems & MBA from Ben-Gurion university 
 - :fireworks:  Experianced with Python, React.js, MongoDB, SQL, SSIS
 
