@@ -15,7 +15,7 @@ You are welcome to view a live presentation of my latest project - end-to-end pa
 
   https://www.youtube.com/watch?v=RjqRjriWruA
   
-The project is based on 2 repors - Server & Client
+This project is based on 2 Repos - [Server](https://github.com/MayanAsifLevy/Aitan_Server_Almagor) & [Client](https://github.com/MayanAsifLevy/Aitan_Client_Almagor)
 
 
 
