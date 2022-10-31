@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Mayan 
 
-<!--
-**MayanAsifLevy/MayanAsifLevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: About me
+- :computer: I’m a Full Stack developer with a history as data engineer
+- :mortar_board: I have B.Sc.in Industrial and Management Engineering specialized in Information Systems & MBA from Ben-Gurion university 
+- :fireworks:  Experianced with Python, React.js, MongoDB, SQL, SSIS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+You are welcome to view my latest project - end-to-end packing house management web-based solution:
+
+  https://www.youtube.com/watch?v=RjqRjriWruA
+
+
+
