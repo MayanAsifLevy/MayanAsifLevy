@@ -11,7 +11,7 @@
 
 
 ## Projects
-You are welcome to view a live presentation of my latest project - end-to-end packing house management web-based solution:
+You are welcome to view a video of my latest project - end-to-end packing house management web-based solution:
 
   https://www.youtube.com/watch?v=RjqRjriWruA
   
