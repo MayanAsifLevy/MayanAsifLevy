@@ -7,7 +7,7 @@
 - :computer: I’m a Full Stack engineer with an end-to-end vision; from understanding the business through data analysis to product development. 
 - :dart: I have a great passion for coding, a strong sense of ownership, and a self-driven problem-solving ability with high interpersonal skills. 
 - :memo: 4+ years of experience as a data engineer and BI & Business analyst (6+ years) in enterprise organizations
-- :mortar_board: I have B.Sc.in Industrial and Management Engineering specialized in Information Systems & MBA from Ben-Gurion university 
+- :mortar_board: I have B.Sc.in Industrial Engineering and Management specialized in Information Systems & MBA from Ben-Gurion university 
 - :fireworks:  Hands-on experience in Python, React.js, MongoDB, SQL & SSIS
 
 
