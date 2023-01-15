@@ -8,7 +8,6 @@
 - :memo: 4+ years of experience as a data engineer and BI & Business analyst (6+ years) in enterprise organizations
 - :fireworks:  Hands-on experience in Python, React.js, MongoDB, SQL & ETLs
 - :dart: I have a great passion for coding, a strong sense of ownership, and a self-driven problem-solving ability with high interpersonal skills. 
-- :mortar_board: I have B.Sc. in Industrial Engineering and Management specialized in Information Systems & MBA from Ben-Gurion university 
 
 
 ## Projects
