@@ -4,7 +4,7 @@
 ## Hi, I'm Mayan 
 
 ## :book: About me
-- :computer: I’m a Full Stack Data engineer with an end-to-end vision; from understanding the business through data analysis to product development. 
+- :computer: I’m a Full Stack Developer and a Data Engineer with an end-to-end vision; from understanding the business through data analysis to product development. 
 - :memo: 4+ years of experience as a data engineer and BI & Business analyst (6+ years) in enterprise organizations
 - :fireworks:  Hands-on experience in Python, React.js, MongoDB, SQL & ETLs
 - :dart: I have a great passion for coding, a strong sense of ownership, and a self-driven problem-solving ability with high interpersonal skills. 
